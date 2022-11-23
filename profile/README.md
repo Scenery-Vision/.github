@@ -6,6 +6,8 @@
 взаимодействовать с нашим решением. На Сервере происходит
 генерация текста, обработка и хранение данных.
 
+Ссылка на видеодемонстрацию MVP: https://www.youtube.com/watch?v=HU5Z4zmpUHw
+
 <!--
 
 **Here are some ideas to get you started:**
