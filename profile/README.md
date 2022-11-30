@@ -7,6 +7,7 @@
 генерация текста, обработка и хранение данных.
 
 Видеодемонстрация Desktop версии клиента : [YouTube Desktop](https://www.youtube.com/watch?v=7-Tvetb9HiU)
+
 Видеодемонстрация Web версии клиента : [YouTube Web](https://www.youtube.com/watch?v=a6AvfHoysBc)
 
 <!--
