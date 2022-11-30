@@ -6,7 +6,8 @@
 взаимодействовать с нашим решением. На Сервере происходит
 генерация текста, обработка и хранение данных.
 
-Видеодемонстрацию MVP можно посмотреть на : [YouTube](https://www.youtube.com/watch?v=HU5Z4zmpUHw)
+Видеодемонстрация Desktop версии клиента : [YouTube Desktop](https://www.youtube.com/watch?v=7-Tvetb9HiU)
+Видеодемонстрация Web версии клиента : [YouTube Web](https://www.youtube.com/watch?v=a6AvfHoysBc)
 
 <!--
 
